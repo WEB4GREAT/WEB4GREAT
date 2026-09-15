@@ -1,16 +1,48 @@
-## Hi there 👋
+WEB4GREAT
 
-<!--
-**WEB4GREAT/WEB4GREAT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web3 Builder · Blockchain · Community · Growth
 
-Here are some ideas to get you started:
+I build products, explore emerging ecosystems, and work where technology meets people.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently building Scout — an early-project discovery platform for Web3.
+
+---
+
+CURRENTLY
+
+SCOUT
+──────────────────────────────────────────────
+EARLY PROJECT DISCOVERY
+MULTI-CHAIN
+REAL-TIME SIGNALS
+BUILDING IN PUBLIC
+
+WHAT I DO
+
+BUILD — Full-stack products, Web3 tools & interfaces
+GROW — Community, activation & ecosystem growth
+EXPLORE — Early projects, protocols & opportunities
+EXECUTE — Turning ideas into shipped work
+
+STACK
+
+"React" "TypeScript" "JavaScript" "Node.js" "Blockchain" "Web3"
+
+SELECTED WORK
+
+→ Scout — Early Web3 project discovery
+→ Spliz — Community & growth
+→ Farting Lobster — Community management
+→ Cryptonia — Community management
+→ EdenFi — Moderation & ecosystem support
+
+---
+
+FIND ME
+
+X → "@WEB4GREAT" (https://x.com/WEB4GREAT)
+Telegram → "@web4great" (https://t.me/web4great)
+
+---
+
+«Build early. Move fast. Leave something better than you found it.»
