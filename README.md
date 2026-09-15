@@ -1,48 +1,26 @@
-WEB4GREAT
+# WEB4GREAT
 
-Web3 Builder · Blockchain · Community · Growth
+Web3 builder focused on blockchain, product engineering, community, and growth.
 
-I build products, explore emerging ecosystems, and work where technology meets people.
+## Building
 
-Currently building Scout — an early-project discovery platform for Web3.
+**Scout** — an early-project discovery platform for Web3.
 
----
+## Focus
 
-CURRENTLY
+- Blockchain & Web3
+- Full-stack development
+- Community & growth
+- Early ecosystem research
 
-SCOUT
-──────────────────────────────────────────────
-EARLY PROJECT DISCOVERY
-MULTI-CHAIN
-REAL-TIME SIGNALS
-BUILDING IN PUBLIC
+## Stack
 
-WHAT I DO
+`React` `TypeScript` `Vite` `Node.js` `Web3` `Git`
 
-BUILD — Full-stack products, Web3 tools & interfaces
-GROW — Community, activation & ecosystem growth
-EXPLORE — Early projects, protocols & opportunities
-EXECUTE — Turning ideas into shipped work
+## Find me
 
-STACK
-
-"React" "TypeScript" "JavaScript" "Node.js" "Blockchain" "Web3"
-
-SELECTED WORK
-
-→ Scout — Early Web3 project discovery
-→ Spliz — Community & growth
-→ Farting Lobster — Community management
-→ Cryptonia — Community management
-→ EdenFi — Moderation & ecosystem support
+[GitHub](https://github.com/WEB4GREAT) · [X](https://x.com/WEB4GREAT) · [Telegram](https://t.me/great134)
 
 ---
 
-FIND ME
-
-X → "@WEB4GREAT" (https://x.com/WEB4GREAT)
-Telegram → "@web4great" (https://t.me/web4great)
-
----
-
-«Build early. Move fast. Leave something better than you found it.»
+*Build what's next.*
